@@ -10,7 +10,7 @@ function Suggestions() {
         <div className="suggestion__username">
           <div className="username__left">
             <span className="avatar">
-              <Avatar>R</Avatar>
+              <Avatar>C</Avatar>
             </span>
             <div className="username__info">
               <span className="username">cgaineyh</span>
@@ -23,7 +23,7 @@ function Suggestions() {
         <div className="suggestion__username">
           <div className="username__left">
             <span className="avatar">
-              <Avatar>R</Avatar>
+              <Avatar>C</Avatar>
             </span>
             <div className="username__info">
               <span className="username">cgaineyh</span>
@@ -36,7 +36,7 @@ function Suggestions() {
         <div className="suggestion__username">
           <div className="username__left">
             <span className="avatar">
-              <Avatar>R</Avatar>
+              <Avatar>C</Avatar>
             </span>
             <div className="username__info">
               <span className="username">cgaineyh</span>
@@ -49,7 +49,7 @@ function Suggestions() {
         <div className="suggestion__username">
           <div className="username__left">
             <span className="avatar">
-              <Avatar>R</Avatar>
+              <Avatar>C</Avatar>
             </span>
             <div className="username__info">
               <span className="username">cgaineyh</span>
